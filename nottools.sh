@@ -32,13 +32,13 @@ echo "┗━┻━┻━┻❢"
 echo "======================"
 echo " Welcome Not Guardian "
 echo "======================"
-echo""
+
 sleep 0.9
-echo
-echo 
+
+
 echo ""
 sleep 0.8
-echo
+
 ###################################################
 # CTRL + C
 ###################################################
@@ -47,11 +47,7 @@ ctrl_c() {
 clear
 echo -e $red"[#]> (Ctrl + C ) Detected, Trying To Exit ... "
 echo -e $cyan"[#]> Thanks"
-sleep 1
-echo ""
-echo -e $b"[#]> See You :)..."
-sleep 1
-echo ""
+
 echo -e $r"[#]> Bye Bye :)..."
 sleep 2
 exit
